@@ -19,6 +19,11 @@ body {
   height: 100%;
 }
 
+img {
+  user-select: none;
+}
+
+
 .card {
   position: relative;
   width: 425px;
